@@ -18,7 +18,7 @@ ETHBrno² will take place 11 - 13 November in Brno, Czech Republic.
 * Task management: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)
 * Documentation: [docs.ethbrno.cz](https://docs.ethbrno.cz/)
 
-#### For Hackers
+### For Hackers
 
 * [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop)
 * [Find a team](https://app.dework.xyz/ethbrno/eb-or-find-a-team-44886)
