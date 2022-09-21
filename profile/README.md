@@ -11,7 +11,7 @@ ETHBrno² will take place 11 - 13 November in Brno, Czech Republic.
 
 [Apply for the hackathon!](https://join.ethbrno.cz)
 
-### T;L;D;R
+### Essentials
 
 * [Hacker Manual](https://docs.ethbrno.cz/events/2022/hacker-manual) (RTFM!)
 * Communication - [ETHBrno² Discord](https://discord.com/invite/qTCka7qtPZ)
