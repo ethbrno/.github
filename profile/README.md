@@ -6,15 +6,12 @@ ETHBrno events are organized by [Gwei.cz](http://gwei.cz/) community with the he
 
 ## Hackathon resources
 
-* [Hacker Manual](https://docs.ethbrno.cz/events/2022/hacker-manual)
+* [Hacker Manual](https://docs.ethbrno.cz/events/2022/hacker-manual) (RTFM!)
+* Communication: [ETHBrno² Discord](https://discord.com/invite/qTCka7qtPZ)
+* Task management: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)
+
+### For Hackers
+
 * [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop)
 * [Find a team](https://app.dework.xyz/ethbrno/eb-or-find-a-team-44886)
 * [Sponsor Bounties](https://app.dework.xyz/ethbrno/eb-or-sponsor-bounti)
-
-## Links
-
-* Web: [ethbrno.cz](https://ethbrno.cz)
-* Twitter: [@ethbrno](https://twitter.com/ethbrno)
-* Blog: [mirror.xyz/ethbrno.eth](https://mirror.xyz/ethbrno.eth)
-* Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
-* Dework: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)
