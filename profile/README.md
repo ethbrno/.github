@@ -17,11 +17,10 @@ ETHBrno² will take place 11 - 13 November in Brno, Czech Republic.
 
 * [Hacker Manual](https://docs.ethbrno.cz/events/2022/hacker-manual) (RTFM!)
 * [Documentation](https://docs.ethbrno.cz/) - Detailed documentation about our hackathon
-* [ETHBrno Discord](https://discord.com/invite/qTCka7qtPZ) - Official communication platform
+* [ETHBrno Matrix](https://matrix.to/#/#ethbrno:gwei.cz) - Official communication platform
+  * [`#ethbrno:gwei.cz`](https://matrix.to/#/#ethbrno:gwei.cz) - ETHBrno space
+  * [`#ethbrno-general:gwei.cz`](https://matrix.to/#/#ethbrno-general:gwei.cz) - general channel
 
 ### For hackers
 
-* [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop) - Ideas for projects that you can improve or implement as part of the hackathon
-* [Find a team](https://app.dework.xyz/ethbrno/eb-or-find-a-team-44886) - A ticket system to help find hackers for a team, or find a team for hackers
-* [Sponsor Bounties](https://app.dework.xyz/ethbrno/eb-or-sponsor-bounti) - Extra rewards from sponsors for completing special tasks
 * [Project submission](https://ethbrno.devfolio.co/) - Fill in your project information for the judges
