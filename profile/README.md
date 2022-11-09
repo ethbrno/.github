@@ -24,3 +24,4 @@ ETHBrno² will take place 11 - 13 November in Brno, Czech Republic.
 ### For hackers
 
 * [Project submission](https://ethbrno.devfolio.co/) - Fill in your project information for the judges
+* [Sponsor bounties](https://github.com/ethbrno/eb2-sponsor-bounties) - Browse additional sponsor bounties
